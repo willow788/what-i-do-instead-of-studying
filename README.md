@@ -6,7 +6,7 @@
 
 ![Demo](demo.png)
 
-[![Python](https://img.shields.io/badge/Python-100%25-3776AB? style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Procrastination](https://img.shields.io/badge/Procrastination-Level_Expert-FF1493?style=for-the-badge)](https://github.com/willow788/what-i-do-instead-of-studying)
 [![Study Status](https://img.shields.io/badge/Study_Status-404_Not_Found-red?style=for-the-badge)](https://github.com/willow788/what-i-do-instead-of-studying)
 
